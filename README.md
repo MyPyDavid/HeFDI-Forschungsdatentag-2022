@@ -1,4 +1,4 @@
-# Einstieg in die Programmierung / Introdution to Programming
+# Einstieg in die Programmierung / Introduction to Programming
 
 ## Infos zur Beispiel/Example Code
 
