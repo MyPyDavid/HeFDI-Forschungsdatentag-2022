@@ -28,5 +28,10 @@ python3 2a_wetterdienst-plot-beispiel.py
 python3 2c_wetterdienst-daten-modellierung.py
 ```
 
+## Example Plots
+
+<img src="https://github.com/MyPyDavid/HeFDI-Forschungsdatentag-2022/blob/f1d13fbc6f3e9ca43544d8844784a7a8371373cf/img/FitYearlyGaussians_wetter_fit_1.png" width=40% height=40%>
+
+<img src="https://github.com/MyPyDavid/HeFDI-Forschungsdatentag-2022/blob/f1d13fbc6f3e9ca43544d8844784a7a8371373cf/img/FitYearlyGaussians_wetter_fit_26.png" width=40% height=40%>
 
 
